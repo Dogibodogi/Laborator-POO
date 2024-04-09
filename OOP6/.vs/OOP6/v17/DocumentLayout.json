@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sacal\\Desktop\\OOP\\OOP6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34884670-7D34-4413-8938-71060D2A766A}|OOP6\\OOP6.vcxproj|C:\\Users\\Sacal\\Desktop\\OOP\\OOP6\\OOP6\\Circuit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{34884670-7D34-4413-8938-71060D2A766A}|OOP6\\OOP6.vcxproj|solutionrelative:OOP6\\Circuit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34884670-7D34-4413-8938-71060D2A766A}|OOP6\\OOP6.vcxproj|C:\\Users\\Sacal\\Desktop\\OOP\\OOP6\\OOP6\\Weather.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{34884670-7D34-4413-8938-71060D2A766A}|OOP6\\OOP6.vcxproj|solutionrelative:OOP6\\Weather.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34884670-7D34-4413-8938-71060D2A766A}|OOP6\\OOP6.vcxproj|C:\\Users\\Sacal\\Desktop\\OOP\\OOP6\\OOP6\\Circuit.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{34884670-7D34-4413-8938-71060D2A766A}|OOP6\\OOP6.vcxproj|solutionrelative:OOP6\\Circuit.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34884670-7D34-4413-8938-71060D2A766A}|OOP6\\OOP6.vcxproj|C:\\Users\\Sacal\\Desktop\\OOP\\OOP6\\OOP6\\Dacia.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{34884670-7D34-4413-8938-71060D2A766A}|OOP6\\OOP6.vcxproj|solutionrelative:OOP6\\Dacia.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34884670-7D34-4413-8938-71060D2A766A}|OOP6\\OOP6.vcxproj|C:\\Users\\Sacal\\Desktop\\OOP\\OOP6\\OOP6\\Ford.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{34884670-7D34-4413-8938-71060D2A766A}|OOP6\\OOP6.vcxproj|solutionrelative:OOP6\\Ford.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34884670-7D34-4413-8938-71060D2A766A}|OOP6\\OOP6.vcxproj|C:\\Users\\Sacal\\Desktop\\OOP\\OOP6\\OOP6\\Ford.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{34884670-7D34-4413-8938-71060D2A766A}|OOP6\\OOP6.vcxproj|solutionrelative:OOP6\\Ford.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34884670-7D34-4413-8938-71060D2A766A}|OOP6\\OOP6.vcxproj|C:\\Users\\Sacal\\Desktop\\OOP\\OOP6\\OOP6\\Car.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{34884670-7D34-4413-8938-71060D2A766A}|OOP6\\OOP6.vcxproj|solutionrelative:OOP6\\Car.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34884670-7D34-4413-8938-71060D2A766A}|OOP6\\OOP6.vcxproj|C:\\Users\\Sacal\\Desktop\\OOP\\OOP6\\OOP6\\OOP6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{34884670-7D34-4413-8938-71060D2A766A}|OOP6\\OOP6.vcxproj|solutionrelative:OOP6\\OOP6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34884670-7D34-4413-8938-71060D2A766A}|OOP6\\OOP6.vcxproj|C:\\Users\\Sacal\\Desktop\\OOP\\OOP6\\OOP6\\Car.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{34884670-7D34-4413-8938-71060D2A766A}|OOP6\\OOP6.vcxproj|solutionrelative:OOP6\\Car.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34884670-7D34-4413-8938-71060D2A766A}|OOP6\\OOP6.vcxproj|C:\\Users\\Sacal\\Desktop\\OOP\\OOP6\\OOP6\\Dacia.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{34884670-7D34-4413-8938-71060D2A766A}|OOP6\\OOP6.vcxproj|solutionrelative:OOP6\\Dacia.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34884670-7D34-4413-8938-71060D2A766A}|OOP6\\OOP6.vcxproj|C:\\Users\\Sacal\\Desktop\\OOP\\OOP6\\OOP6\\Mercedes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{34884670-7D34-4413-8938-71060D2A766A}|OOP6\\OOP6.vcxproj|solutionrelative:OOP6\\Mercedes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34884670-7D34-4413-8938-71060D2A766A}|OOP6\\OOP6.vcxproj|C:\\Users\\Sacal\\Desktop\\OOP\\OOP6\\OOP6\\Mercedes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{34884670-7D34-4413-8938-71060D2A766A}|OOP6\\OOP6.vcxproj|solutionrelative:OOP6\\Mercedes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34884670-7D34-4413-8938-71060D2A766A}|OOP6\\OOP6.vcxproj|C:\\Users\\Sacal\\Desktop\\OOP\\OOP6\\OOP6\\Mazda.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{34884670-7D34-4413-8938-71060D2A766A}|OOP6\\OOP6.vcxproj|solutionrelative:OOP6\\Mazda.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34884670-7D34-4413-8938-71060D2A766A}|OOP6\\OOP6.vcxproj|C:\\Users\\Sacal\\Desktop\\OOP\\OOP6\\OOP6\\Mazda.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{34884670-7D34-4413-8938-71060D2A766A}|OOP6\\OOP6.vcxproj|solutionrelative:OOP6\\Mazda.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Circuit.h",
+              "DocumentMoniker": "C:\\Users\\Sacal\\Desktop\\OOP\\OOP6\\OOP6\\Circuit.h",
+              "RelativeDocumentMoniker": "OOP6\\Circuit.h",
+              "ToolTip": "C:\\Users\\Sacal\\Desktop\\OOP\\OOP6\\OOP6\\Circuit.h",
+              "RelativeToolTip": "OOP6\\Circuit.h",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAiwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-09T12:28:51.123Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dacia.cpp",
+              "DocumentMoniker": "C:\\Users\\Sacal\\Desktop\\OOP\\OOP6\\OOP6\\Dacia.cpp",
+              "RelativeDocumentMoniker": "OOP6\\Dacia.cpp",
+              "ToolTip": "C:\\Users\\Sacal\\Desktop\\OOP\\OOP6\\OOP6\\Dacia.cpp",
+              "RelativeToolTip": "OOP6\\Dacia.cpp",
+              "ViewState": "AQIAABcAAAAAAAAAAAAiwCoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-09T12:30:34.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dacia.h",
+              "DocumentMoniker": "C:\\Users\\Sacal\\Desktop\\OOP\\OOP6\\OOP6\\Dacia.h",
+              "RelativeDocumentMoniker": "OOP6\\Dacia.h",
+              "ToolTip": "C:\\Users\\Sacal\\Desktop\\OOP\\OOP6\\OOP6\\Dacia.h",
+              "RelativeToolTip": "OOP6\\Dacia.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-09T12:30:14.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ford.cpp",
+              "DocumentMoniker": "C:\\Users\\Sacal\\Desktop\\OOP\\OOP6\\OOP6\\Ford.cpp",
+              "RelativeDocumentMoniker": "OOP6\\Ford.cpp",
+              "ToolTip": "C:\\Users\\Sacal\\Desktop\\OOP\\OOP6\\OOP6\\Ford.cpp",
+              "RelativeToolTip": "OOP6\\Ford.cpp",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-09T12:29:47.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ford.h",
+              "DocumentMoniker": "C:\\Users\\Sacal\\Desktop\\OOP\\OOP6\\OOP6\\Ford.h",
+              "RelativeDocumentMoniker": "OOP6\\Ford.h",
+              "ToolTip": "C:\\Users\\Sacal\\Desktop\\OOP\\OOP6\\OOP6\\Ford.h",
+              "RelativeToolTip": "OOP6\\Ford.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-09T12:29:32.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Circuit.cpp",
+              "DocumentMoniker": "C:\\Users\\Sacal\\Desktop\\OOP\\OOP6\\OOP6\\Circuit.cpp",
+              "RelativeDocumentMoniker": "OOP6\\Circuit.cpp",
+              "ToolTip": "C:\\Users\\Sacal\\Desktop\\OOP\\OOP6\\OOP6\\Circuit.cpp",
+              "RelativeToolTip": "OOP6\\Circuit.cpp",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-09T12:28:55.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Weather.h",
+              "DocumentMoniker": "C:\\Users\\Sacal\\Desktop\\OOP\\OOP6\\OOP6\\Weather.h",
+              "RelativeDocumentMoniker": "OOP6\\Weather.h",
+              "ToolTip": "C:\\Users\\Sacal\\Desktop\\OOP\\OOP6\\OOP6\\Weather.h",
+              "RelativeToolTip": "OOP6\\Weather.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-09T12:27:49.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Car.cpp",
+              "DocumentMoniker": "C:\\Users\\Sacal\\Desktop\\OOP\\OOP6\\OOP6\\Car.cpp",
+              "RelativeDocumentMoniker": "OOP6\\Car.cpp",
+              "ToolTip": "C:\\Users\\Sacal\\Desktop\\OOP\\OOP6\\OOP6\\Car.cpp",
+              "RelativeToolTip": "OOP6\\Car.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-09T12:26:57.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Car.h",
+              "DocumentMoniker": "C:\\Users\\Sacal\\Desktop\\OOP\\OOP6\\OOP6\\Car.h",
+              "RelativeDocumentMoniker": "OOP6\\Car.h",
+              "ToolTip": "C:\\Users\\Sacal\\Desktop\\OOP\\OOP6\\OOP6\\Car.h",
+              "RelativeToolTip": "OOP6\\Car.h",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAiwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-09T12:26:49.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OOP6.cpp",
+              "DocumentMoniker": "C:\\Users\\Sacal\\Desktop\\OOP\\OOP6\\OOP6\\OOP6.cpp",
+              "RelativeDocumentMoniker": "OOP6\\OOP6.cpp",
+              "ToolTip": "C:\\Users\\Sacal\\Desktop\\OOP\\OOP6\\OOP6\\OOP6.cpp",
+              "RelativeToolTip": "OOP6\\OOP6.cpp",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAkwBIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-09T12:24:32.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Mercedes.cpp",
+              "DocumentMoniker": "C:\\Users\\Sacal\\Desktop\\OOP\\OOP6\\OOP6\\Mercedes.cpp",
+              "RelativeDocumentMoniker": "OOP6\\Mercedes.cpp",
+              "ToolTip": "C:\\Users\\Sacal\\Desktop\\OOP\\OOP6\\OOP6\\Mercedes.cpp",
+              "RelativeToolTip": "OOP6\\Mercedes.cpp",
+              "ViewState": "AQIAABcAAAAAAAAAAAAiwCoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-09T12:26:01.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Mercedes.h",
+              "DocumentMoniker": "C:\\Users\\Sacal\\Desktop\\OOP\\OOP6\\OOP6\\Mercedes.h",
+              "RelativeDocumentMoniker": "OOP6\\Mercedes.h",
+              "ToolTip": "C:\\Users\\Sacal\\Desktop\\OOP\\OOP6\\OOP6\\Mercedes.h",
+              "RelativeToolTip": "OOP6\\Mercedes.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-09T12:26:00.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Mazda.cpp",
+              "DocumentMoniker": "C:\\Users\\Sacal\\Desktop\\OOP\\OOP6\\OOP6\\Mazda.cpp",
+              "RelativeDocumentMoniker": "OOP6\\Mazda.cpp",
+              "ToolTip": "C:\\Users\\Sacal\\Desktop\\OOP\\OOP6\\OOP6\\Mazda.cpp",
+              "RelativeToolTip": "OOP6\\Mazda.cpp",
+              "ViewState": "AQIAABcAAAAAAAAAAAAiwCoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-09T12:25:10.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Mazda.h",
+              "DocumentMoniker": "C:\\Users\\Sacal\\Desktop\\OOP\\OOP6\\OOP6\\Mazda.h",
+              "RelativeDocumentMoniker": "OOP6\\Mazda.h",
+              "ToolTip": "C:\\Users\\Sacal\\Desktop\\OOP\\OOP6\\OOP6\\Mazda.h",
+              "RelativeToolTip": "OOP6\\Mazda.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-09T12:25:07.1Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

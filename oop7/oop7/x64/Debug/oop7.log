@@ -1,0 +1,33 @@
+﻿  oop7.cpp
+C:\Users\Sacal\Desktop\OOP\oop7\oop7\oop7.cpp(32,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Sacal\Desktop\OOP\oop7\oop7\oop7.cpp(42,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Sacal\Desktop\OOP\oop7\oop7\Tree.h(172,23): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'oop7.cpp')
+  C:\Users\Sacal\Desktop\OOP\oop7\oop7\Tree.h(172,23):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\Sacal\Desktop\OOP\oop7\oop7\oop7.cpp(8,15):
+  	see reference to class template instantiation 'Tree<int>' being compiled
+  	C:\Users\Sacal\Desktop\OOP\oop7\oop7\Tree.h(167,67):
+  	while compiling class template member function 'void Tree<int>::sortChildren(Tree<int> *,bool (__cdecl *)(T,T))'
+          with
+          [
+              T=int
+          ]
+  		C:\Users\Sacal\Desktop\OOP\oop7\oop7\oop7.cpp(36,22):
+  		see the first reference to 'Tree<int>::sortChildren' in 'main'
+  
+C:\Users\Sacal\Desktop\OOP\oop7\oop7\Tree.h(173,31): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'oop7.cpp')
+  
+C:\Users\Sacal\Desktop\OOP\oop7\oop7\Tree.h(199,23): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'oop7.cpp')
+  C:\Users\Sacal\Desktop\OOP\oop7\oop7\Tree.h(199,23):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\Sacal\Desktop\OOP\oop7\oop7\Tree.h(192,74):
+  	while compiling class template member function 'unsigned int Tree<int>::getChildrenCount(Tree<int> *)'
+  		C:\Users\Sacal\Desktop\OOP\oop7\oop7\oop7.cpp(45,11):
+  		see the first reference to 'Tree<int>::getChildrenCount' in 'main'
+  
+  Tree.cpp
+  Generating Code...
+  oop7.vcxproj -> C:\Users\Sacal\Desktop\OOP\oop7\x64\Debug\oop7.exe
