@@ -1,0 +1,7 @@
+﻿  Map.cpp
+  OOP9.cpp
+C:\Users\dogib\Desktop\OOP8\OOP9\OOP9\OOP9.cpp(9,16): error C2429: language feature 'structured bindings' requires compiler flag '/std:c++17'
+C:\Users\dogib\Desktop\OOP8\OOP9\OOP9\OOP9.cpp(10,65): fatal  error C1907: unable to recover from previous error(s); stopping compilation
+  INTERNAL COMPILER ERROR in 'C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\bin\HostX64\x64\CL.exe'
+      Please choose the Technical Support command on the Visual C++
+      Help menu, or open the Technical Support help file for more information
